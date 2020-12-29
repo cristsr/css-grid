@@ -1,0 +1,32 @@
+body {
+    font-family: 'arial', serif
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 200px 100px 50px;
+    /** filas / columnas*/
+    grid-template: 200px 100px 50px / repeat(4, minmax(200px, 1fr));
+    grid-column-gap: 50px;
+    grid-row-gap: 10px;
+    /** filas columnas or both*/
+    grid-gap: 10px;
+}
+
+.item {
+    background: lightblue;
+    padding: 10px;
+    border: 1px solid red;
+}
+
+.item:nth-of-type(4) {
+    background: blue;
+    overflow: auto;
+    display: grid;
+    grid-template: 50px 50px 50px / 200px 200px 200px;
+}
+
+.item .item {
+    background: yellow;
+}

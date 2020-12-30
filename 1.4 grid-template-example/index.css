@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background: #FFF;
+    display: grid;
+    grid-template: 60% 1fr 1fr / 30% 30% 1fr 1fr;
+    gap: 10px;
+    padding: 50px;
+}
+
+.item {
+    background: #FFF;
+    border: 1px solid #EEE ;
+}
+
+.img1 {
+    grid-column: span 4;
+    grid-row: span 1;
+    background-image: url(./images/persefone.webp);
+}
+
+.img2 {
+    grid-column: span 1;
+    grid-row: span 2;
+    background-image: url(./images/the-faceless.webp);
+}
+
+.img3 {
+    grid-column: span 1;
+    grid-row: span 2;
+    background-image: url(./images/born-of-osiris.webp);
+}
+
+.img4 {
+    grid-column: span 2;
+    grid-row: span 1;
+    background-image: url(./images/the-haarp.machine.webp);
+}
+
+.img5 {
+    grid-column: span 1;
+    grid-row: span 1;
+    background-image: url(./images/obscura.webp);
+}
+
+.img6 {
+    grid-column: span 1;
+    grid-row: span 1;
+    background-image: url(./images/gojira.webp);
+}

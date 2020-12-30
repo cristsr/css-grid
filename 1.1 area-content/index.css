@@ -1,0 +1,36 @@
+body {
+    font-family: 'arial', serif
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 200px 100px 50px;
+    /** filas / columnas*/
+    grid-template: 100px 1fr 150px / 200px 1fr;
+    grid-gap: 10px;
+    height: 100vh ;
+    grid-template-areas: "header header" "left content" "footer footer";
+}
+
+.item {
+    background: lightblue;
+    padding: 10px;
+    border: 1px solid red;
+}
+
+.header {
+    grid-area: header;
+}
+
+.left{
+    grid-area: left;
+}
+
+.content {
+    grid-area: content;
+}
+
+.footer {
+    grid-area: footer;
+}

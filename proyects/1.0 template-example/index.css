@@ -10,19 +10,21 @@
     background: #FFF;
     display: grid;
     grid-template: 60% 1fr 1fr / 30% 30% 1fr 1fr;
-    gap: 10px;
+    gap: 5px;
     padding: 50px;
 }
 
 .item {
     background: #FFF;
     border: 1px solid #EEE ;
+    background-size: cover;
 }
 
 .img1 {
     grid-column: span 4;
     grid-row: span 1;
     background-image: url(./images/persefone.webp);
+    background-position: center top;
 }
 
 .img2 {

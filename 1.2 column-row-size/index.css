@@ -4,7 +4,7 @@ body {
 
 .container {
     display: grid;
-    /** filas / columnas*/
+    /** rows / columns*/
     grid-template: repeat(2, 200px)/ repeat(7, 1fr);
     grid-gap: 10px;
     height: 100vh;

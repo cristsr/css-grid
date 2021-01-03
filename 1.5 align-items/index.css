@@ -1,0 +1,23 @@
+body {
+    font-family: 'arial', serif
+}
+
+.container {
+    display: grid;
+
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+
+    grid-gap: 20px;
+    height: 100vh;
+
+    /**start center end stretch*/
+    justify-items: stretch;
+    align-items: stretch;
+}
+
+.item {
+    background: lightblue;
+    padding: 10px;
+    border: 1px solid red;
+}

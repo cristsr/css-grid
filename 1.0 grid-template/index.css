@@ -6,11 +6,11 @@ body {
     display: grid;
     grid-template-columns: 200px 200px 200px;
     grid-template-rows: 200px 100px 50px;
-    /** filas / columnas*/
+    /** rows / columns*/
     grid-template: 200px 100px 50px / repeat(4, minmax(200px, 1fr));
     grid-column-gap: 50px;
     grid-row-gap: 10px;
-    /** filas columnas or both*/
+    /** rows columns or both*/
     grid-gap: 10px;
 }
 

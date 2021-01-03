@@ -20,8 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f1b34a4-f44b-4988-a380-7ae57ac13c06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/grid-template/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grid-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3 line-names/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3 line-names/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.4 implicit-grid/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.4 implicit-grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.5 align-items/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.5 align-items/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6 align-content/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.6 align-content/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/1.0 template-example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/1.1 instagram-layout/images/compu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/1.1 instagram-layout/images/compu2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/1.1 instagram-layout/images/compu3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/1.1 instagram-layout/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/1.1 instagram-layout/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.0 grid-template/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.0 grid-template/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1 area-content/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.1 area-content/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2 column- row-size/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.2 column-row-size/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2 column- row-size/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.2 column-row-size/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4 grid-template-example/images/born-of-osiris.webp" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/1.0 template-example/images/born-of-osiris.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4 grid-template-example/images/gojira.webp" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/1.0 template-example/images/gojira.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4 grid-template-example/images/obscura.webp" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/1.0 template-example/images/obscura.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4 grid-template-example/images/persefone.webp" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/1.0 template-example/images/persefone.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4 grid-template-example/images/the-faceless.webp" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/1.0 template-example/images/the-faceless.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4 grid-template-example/images/the-haarp.machine.webp" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/1.0 template-example/images/the-haarp.machine.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4 grid-template-example/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/1.0 template-example/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4 grid-template-example/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +80,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/proyects/1.0 instagram-layout" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -63,19 +88,47 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-grid/grid-template/index.html" useBuiltInWebServerPort="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Proyects\Cristian\Css\css-grid\proyects\1.1 instagram-layout\images" />
+      <recent name="E:\Proyects\Cristian\Css\css-grid\proyects" />
+      <recent name="E:\Proyects\Cristian\Css\css-grid" />
+      <recent name="E:\Proyects\Cristian\Css\css-grid\1.7 align-content" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Proyects\Cristian\Css\css-grid\proyects\1.0 instagram-layout" />
+      <recent name="E:\Proyects\Cristian\Css\css-grid\1.7 align-content" />
+      <recent name="E:\Proyects\Cristian\Css\css-grid" />
+      <recent name="E:\Proyects\Cristian\Css\css-grid\1.4 line-names" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-grid/0.1 layout/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-grid/columns/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-grid/proyects/1.0 template-example/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-grid/proyects/1.1 instagram-layout/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-grid/1.5 implicit-grid/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-grid/1.7 align-content/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (3)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +144,7 @@
       <workItem from="1608599433254" duration="594000" />
       <workItem from="1608680762190" duration="4000" />
       <workItem from="1609170882666" duration="5403000" />
-      <workItem from="1609276734206" duration="541000" />
+      <workItem from="1609276734206" duration="23531000" />
     </task>
     <servers />
   </component>
@@ -109,5 +162,59 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="935" height="347" key="GridCell.Tab.0.bottom" timestamp="1609644111577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609644111577" />
+    <state width="935" height="347" key="GridCell.Tab.0.center" timestamp="1609644111577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609644111577" />
+    <state width="935" height="347" key="GridCell.Tab.0.left" timestamp="1609644111577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609644111577" />
+    <state width="935" height="347" key="GridCell.Tab.0.right" timestamp="1609644111577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609644111577" />
+    <state width="935" height="347" key="GridCell.Tab.1.bottom" timestamp="1609644111577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609644111577" />
+    <state width="935" height="347" key="GridCell.Tab.1.center" timestamp="1609644111577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609644111577" />
+    <state width="935" height="347" key="GridCell.Tab.1.left" timestamp="1609644111577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609644111577" />
+    <state width="935" height="347" key="GridCell.Tab.1.right" timestamp="1609644111577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609644111577" />
+    <state width="935" height="347" key="GridCell.Tab.2.bottom" timestamp="1609644111577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="347" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609644111577" />
+    <state width="935" height="347" key="GridCell.Tab.2.center" timestamp="1609644111577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="347" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609644111577" />
+    <state width="935" height="347" key="GridCell.Tab.2.left" timestamp="1609644111577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="347" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609644111577" />
+    <state width="935" height="347" key="GridCell.Tab.2.right" timestamp="1609644111577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="347" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609644111577" />
+    <state x="85" y="168" key="SettingsEditor" timestamp="1609554720431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="85" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609554720431" />
   </component>
 </project>

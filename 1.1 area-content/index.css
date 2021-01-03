@@ -6,7 +6,7 @@ body {
     display: grid;
     grid-template-columns: 200px 200px 200px;
     grid-template-rows: 200px 100px 50px;
-    /** filas / columnas*/
+    /** rows / columns*/
     grid-template: 100px 1fr 150px / 200px 1fr;
     grid-gap: 10px;
     height: 100vh ;

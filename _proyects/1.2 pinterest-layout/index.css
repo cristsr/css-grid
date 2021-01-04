@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'arial', serif;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 250px);
+    gap: 5px;
+    justify-content: center;
+}
+
+.item {
+    display: inline-flex;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.item img {
+    max-width: 100%;
+    object-fit: cover;
+}
+
+.level-1 {
+    grid-row: span 3;
+}
+
+.level-2 {
+    grid-row: span 2;
+}
+
+.level-3 {
+    grid-row: span 1;
+}
